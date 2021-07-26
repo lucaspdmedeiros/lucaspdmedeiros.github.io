@@ -1,2 +1,2 @@
-# lucaspdmedeiros.github.io
-My personal website
+# My personal website
+Adapted from https://github.com/mmistakes/minimal-mistakes
