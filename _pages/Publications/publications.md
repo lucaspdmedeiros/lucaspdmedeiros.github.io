@@ -4,7 +4,9 @@ layout: archive
 permalink: /_pages/Publications/
 ---
 
-- **Medeiros, L. P.**, Dakos, V., Sugihara, G., and Saavedra, S. (*Under review*). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics.
+- **Medeiros, L. P.**, Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (*Under review*). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics.
+
+- Camacho, L. A., Andreazzi, C. S., **Medeiros, L. P.**, Birskis-Barros, I., Emer, C., Reigada, C., and Guimarães Jr, P. R. (*Under review*). Cheating interactions favor modularity in mutualistic networks.
 
 - **Medeiros, L. P.**, Song, C., and Saavedra, S. (2021). Merging dynamical and structural indicators to measure resilience in multispecies systems. *Journal of Animal Ecology*, 00:1–14.
     - [Journal](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13421)
@@ -30,7 +32,7 @@ permalink: /_pages/Publications/
     - [PDF](https://lucaspdmedeiros.github.io/files/Cenci_etal_2020_JRSocInterface.pdf)
     - [Code and data](https://github.com/MITEcology/JRSI-Cenci-Medeiros-Sugihara-Saavedra-2019)
 
-- **Medeiros, L. P.**, Garcia, G., Thompson, J. N., and Guimarães, P. R. (2018). The geographic mosaic of coevolution in mutualistic networks. *Proceedings of the National Academy of Sciences*, 115(47), 12017-12022.
+- **Medeiros, L. P.**, Garcia, G., Thompson, J. N., and Guimarães Jr, P. R. (2018). The geographic mosaic of coevolution in mutualistic networks. *Proceedings of the National Academy of Sciences*, 115(47), 12017-12022.
     - [Journal](https://www.pnas.org/content/115/47/12017)
     - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2018_PNAS.pdf)
     - [Code and data](https://github.com/wgar84/spatial_coevo_mutnet)
