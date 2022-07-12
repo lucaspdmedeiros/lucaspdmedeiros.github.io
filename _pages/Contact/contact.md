@@ -5,10 +5,10 @@ permalink: /_pages/Contact/
 ---
 
 **Email**: \
-lucasmed@mit.edu
+lumedeir@ucsc.edu
 
 **Office address**: \
-Massachusetts Institute of Technology \
-Department of Civil and Environmental Engineering \
-77 Massachusetts Avenue, Office 1-240 \
-Cambridge, MA 02139 USA
+University of California, Santa Cruz \
+Coastal Biology Building \
+130 McAllister Way, Office 226 \
+Santa Cruz, CA 95060

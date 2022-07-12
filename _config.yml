@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Lucas P. Medeiros"
   avatar           : "lucas.jpg"
-  bio              : "PhD candidate in Civil and Environmental Engineering (MIT)"
-  location         : "Cambridge MA, USA"
+  bio              : "Postdoctoral Scholar at the IMS-NOAA Fisheries Collaborative Program (UC Santa Cruz)"
+  location         : "Santa Cruz CA, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lucasmed@mit.edu"
+      url: "mailto:lumedeir@ucsc.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
