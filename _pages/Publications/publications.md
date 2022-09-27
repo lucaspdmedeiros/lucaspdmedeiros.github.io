@@ -4,9 +4,13 @@ layout: archive
 permalink: /_pages/Publications/
 ---
 
-- **Medeiros, L. P.** and Saavedra, S. (*Submitted*). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations.
+- **Medeiros, L. P.** and Saavedra, S. (*Under review*). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations.
+    - [Journal](https://www.biorxiv.org/content/10.1101/2022.07.24.501326v1)
+    - [Code and data](https://github.com/lucaspdmedeiros/species-correlated-responses)
 
-- **Medeiros, L. P.**, Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (*Under review*). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics.
+- **Medeiros, L. P.**, Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (2022). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics. *Ecology Letters*, in press.
+    - [Journal](https://www.biorxiv.org/content/10.1101/2022.07.23.501258v1)
+    - [Code and data](https://github.com/lucaspdmedeiros/ranking-species-sensitivity)
 
 - Camacho, L. A., Andreazzi, C. S., **Medeiros, L. P.**, Birskis-Barros, I., Emer, C., Reigada, C., and Guimarães Jr, P. R. (*Under review*). Cheating interactions favor modularity in mutualistic networks.
 
