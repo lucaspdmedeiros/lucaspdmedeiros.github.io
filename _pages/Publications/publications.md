@@ -4,15 +4,19 @@ layout: archive
 permalink: /_pages/Publications/
 ---
 
-- **Medeiros, L. P.** and Saavedra, S. (*Under review*). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations.
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2022.07.24.501326v1)
+For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
+
+- **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, e4115.
+    - [Journal](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4115)
     - [Code and data](https://github.com/lucaspdmedeiros/species-correlated-responses)
 
-- Camacho, L. A., Andreazzi, C. S., **Medeiros, L. P.**, Birskis-Barros, I., Emer, C., Reigada, C., and Guimarães Jr, P. R. (2022). Cheating interactions favor modularity in mutualistic networks. *Oikos*, in press.
+- Camacho, L. A., Andreazzi, C. S., **Medeiros, L. P.**, Birskis-Barros, I., Emer, C., Reigada, C., and Guimarães Jr, P. R. (2023). Cheating interactions favor modularity in mutualistic networks. *Oikos*, 2023(3), e09176.
+    - [Journal](https://onlinelibrary.wiley.com/doi/abs/10.1111/oik.09176)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Camacho_etal_2023_Oikos.pdf)
 
-- **Medeiros, L. P.**, Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (2022). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics. *Ecology Letters*, 00, 1-14.
+- **Medeiros, L. P.**, Allesina, S., Dakos, V., Sugihara, G., and Saavedra, S. (2023). Ranking species based on sensitivity to perturbations under non-equilibrium community dynamics. *Ecology Letters*, 26(1), 170-183.
     - [Journal](https://onlinelibrary.wiley.com/doi/10.1111/ele.14131)
-    - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2022_EcolLett.pdf)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2023_EcolLett.pdf)
     - [Code and data](https://github.com/lucaspdmedeiros/ranking-species-sensitivity)
     - [MIT News: A better way to tell which species are vulnerable](https://news.mit.edu/2022/species-vulnerable-climate-change-1031)
 
