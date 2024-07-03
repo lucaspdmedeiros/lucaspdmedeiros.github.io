@@ -4,6 +4,16 @@ layout: archive
 permalink: /_pages/Publications/
 ---
 
+### Submitted or in preparation
+
+**Medeiros, L. P.**\*, Sorenson, D. K.\*, Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In preparation). Revealing unseen dynamical regimes of ecosystems from population time-series data. (\*equal contribution)
+
+**Medeiros, L. P.** and Munch, S. B. (In preparation). A unified framework for responses to pulse perturbations under non-equilibrium population dynamics.
+
+**Medeiros, L. P.**, Grady, K. O., Coates, J. H., and Munch, S. B. (In preparation). Predicting and controlling the dynamics of market squid with Empirical Dynamic Modelling.
+
+### Published
+
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
 
 - **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, e4115.
@@ -20,7 +30,7 @@ For the most up-to-date information, please check my [Google Scholar page](https
     - [Code and data](https://github.com/lucaspdmedeiros/ranking-species-sensitivity)
     - [MIT News: A better way to tell which species are vulnerable](https://news.mit.edu/2022/species-vulnerable-climate-change-1031)
 
-- **Medeiros, L. P.**, Song, C., and Saavedra, S. (2021). Merging dynamical and structural indicators to measure resilience in multispecies systems. *Journal of Animal Ecology*, 90(9), 2027–2040.
+- **Medeiros, L. P.**\*, Song, C.\*, and Saavedra, S. (2021). Merging dynamical and structural indicators to measure resilience in multispecies systems. *Journal of Animal Ecology*, 90(9), 2027–2040. (\*equal contribution)
     - [Journal](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13421)
     - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2021_JAnimEcol.pdf)
     - [Code and data](https://github.com/lucaspdmedeiros/merging-resilience-indicators)

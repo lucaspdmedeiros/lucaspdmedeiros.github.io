@@ -4,11 +4,11 @@ layout: archive
 permalink: /_pages/Contact/
 ---
 
-**Email**: \
-lumedeir@ucsc.edu
+**Email:** \
+lucas.medeiros@whoi.edu
 
-**Office address**: \
-University of California, Santa Cruz \
-Coastal Biology Building \
-130 McAllister Way, Office 226 \
-Santa Cruz, CA 95060
+**Office address:** \
+Woods Hole Oceanographic Institution \
+Biology Department \
+Redfield Building, Room 116 \
+45 Water St, Woods Hole, MA 02543

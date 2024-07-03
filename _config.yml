@@ -103,13 +103,13 @@ analytics:
 author:
   name             : "Lucas P. Medeiros"
   avatar           : "lucas.jpg"
-  bio              : "Postdoctoral Scholar at UC Santa Cruz and NOAA Fisheries"
-  location         : "Santa Cruz CA, USA"
+  bio              : "Postdoctoral Investigator at the Woods Hole Oceanographic Institution"
+  location         : "Woods Hole MA, USA"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lumedeir@ucsc.edu"
+      url: "mailto:lucas.medeiros@whoi.edu"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
