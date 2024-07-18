@@ -6,9 +6,7 @@ permalink: /_pages/Publications/
 
 ### Submitted or in preparation
 
-**Medeiros, L. P.**\*, Sorenson, D. K.\*, Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In preparation). Revealing unseen dynamical regimes of ecosystems from population time-series data. (\*equal contribution)
-
-**Medeiros, L. P.** and Munch, S. B. (In preparation). A unified framework for responses to pulse perturbations under non-equilibrium population dynamics.
+**Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In preparation). Revealing unseen dynamical regimes of ecosystems from population time-series data.
 
 **Medeiros, L. P.**, Grady, K. O., Coates, J. H., and Munch, S. B. (In preparation). Predicting and controlling the dynamics of market squid with Empirical Dynamic Modelling.
 
