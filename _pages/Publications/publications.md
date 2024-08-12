@@ -6,9 +6,10 @@ permalink: /_pages/Publications/
 
 ### Submitted or in preparation
 
-**Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In preparation). Revealing unseen dynamical regimes of ecosystems from population time-series data.
+- **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (Submitted). Revealing unseen dynamical regimes of ecosystems from population time-series data.
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2024.08.07.607005v1)
 
-**Medeiros, L. P.**, Grady, K. O., Coates, J. H., and Munch, S. B. (In preparation). Predicting and controlling the dynamics of market squid with Empirical Dynamic Modelling.
+- **Medeiros, L. P.**, Grady, K. O., Coates, J. H., and Munch, S. B. (In preparation). Predicting and controlling the dynamics of market squid with Empirical Dynamic Modelling.
 
 ### Published
 
