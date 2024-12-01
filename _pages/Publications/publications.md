@@ -15,8 +15,9 @@ permalink: /_pages/Publications/
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
 
-- **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, e4115.
+- **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, 104(8), e4115.
     - [Journal](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4115)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros&Saavedra_2023_Ecology.pdf)
     - [Code and data](https://github.com/lucaspdmedeiros/species-correlated-responses)
 
 - Camacho, L. A., Andreazzi, C. S., **Medeiros, L. P.**, Birskis-Barros, I., Emer, C., Reigada, C., and Guimarães Jr, P. R. (2023). Cheating interactions favor modularity in mutualistic networks. *Oikos*, 2023(3), e09176.
