@@ -6,14 +6,17 @@ permalink: /_pages/Publications/
 
 ### Submitted
 
-- **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (Under review). Revealing unseen dynamical regimes of ecosystems from population time-series data.
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2024.08.07.607005v1)
+- **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (Under review). A nonequilibrium framework for community responses to pulse perturbations.
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
 
-- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (Under review). Bird communities show resilience to an extreme weather event, drought, across a savanna protected area.
+- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (Under review). Bird communities show resilience to an extreme weather event, drought, across a large savanna protected area.
 
 ### Published
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
+
+- **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In press). Revealing unseen dynamical regimes of ecosystems from population time-series data. *Proceedings of the National Academy of Sciences*
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2024.08.07.607005v1)
 
 - **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, 104(8), e4115.
     - [Journal](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4115)
