@@ -9,14 +9,19 @@ permalink: /_pages/Publications/
 - **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (Under review). A nonequilibrium framework for community responses to pulse perturbations.
     - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
 
+- Honda, I. A., **Medeiros, L. P.**, Thompson, C. R. S., Britten, G. L., Runge, J. A., and Ji, R. (Under review). Seasonal Trophic Controls Drive Population Variability in a Foundational Marine Copepod.
+
 - Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (Under review). Bird communities show resilience to an extreme weather event, drought, across a large savanna protected area.
 
 ### Published
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
 
-- **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (In press). Revealing unseen dynamical regimes of ecosystems from population time-series data. *Proceedings of the National Academy of Sciences*
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2024.08.07.607005v1)
+- **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (2025). Revealing unseen dynamical regimes of ecosystems from population time-series data. *Proceedings of the National Academy of Sciences*, 122(24), e2416637122.
+    - [Journal](https://www.pnas.org/doi/10.1073/pnas.2416637122)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2025_PNAS.pdf)
+    - [Code and data](https://github.com/lucaspdmedeiros/gpedm-regime-shifts)
+    - [UC Santa Cruz News: A data-driven model to help avoid ecosystem collapse](https://news.ucsc.edu/2025/06/ecosystem-tipping-point-model/)
 
 - **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, 104(8), e4115.
     - [Journal](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4115)
