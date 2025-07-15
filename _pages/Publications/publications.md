@@ -21,7 +21,8 @@ For the most up-to-date information, please check my [Google Scholar page](https
     - [Journal](https://www.pnas.org/doi/10.1073/pnas.2416637122)
     - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2025_PNAS.pdf)
     - [Code and data](https://github.com/lucaspdmedeiros/gpedm-regime-shifts)
-    - [UC Santa Cruz News: A data-driven model to help avoid ecosystem collapse](https://news.ucsc.edu/2025/06/ecosystem-tipping-point-model/)
+    - [UCSC press release: A data-driven model to help avoid ecosystem collapse](https://news.ucsc.edu/2025/06/ecosystem-tipping-point-model)
+    - [PNAS commentary: Predicting regime shifts and beyond](https://www.pnas.org/doi/10.1073/pnas.2513605122)
 
 - **Medeiros, L. P.** and Saavedra, S. (2023). Understanding the state-dependent impact of species correlated responses on community sensitivity to perturbations. *Ecology*, 104(8), e4115.
     - [Journal](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/ecy.4115)
@@ -36,7 +37,7 @@ For the most up-to-date information, please check my [Google Scholar page](https
     - [Journal](https://onlinelibrary.wiley.com/doi/10.1111/ele.14131)
     - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2023_EcolLett.pdf)
     - [Code and data](https://github.com/lucaspdmedeiros/ranking-species-sensitivity)
-    - [MIT News: A better way to tell which species are vulnerable](https://news.mit.edu/2022/species-vulnerable-climate-change-1031)
+    - [MIT press release: A better way to tell which species are vulnerable](https://news.mit.edu/2022/species-vulnerable-climate-change-1031)
 
 - **Medeiros, L. P.**\*, Song, C.\*, and Saavedra, S. (2021). Merging dynamical and structural indicators to measure resilience in multispecies systems. *Journal of Animal Ecology*, 90(9), 2027–2040. (\*equal contribution)
     - [Journal](https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1365-2656.13421)
