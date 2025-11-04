@@ -9,13 +9,16 @@ permalink: /_pages/Publications/
 - **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (Under review). A nonequilibrium framework for community responses to pulse perturbations.
     - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
 
-- Honda, I. A., **Medeiros, L. P.**, Thompson, C. R. S., Britten, G. L., Runge, J. A., and Ji, R. (Under review). Seasonal Trophic Controls Drive Population Variability in a Foundational Marine Copepod.
-
-- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (Under review). Bird communities show resilience to an extreme weather event, drought, across a large savanna protected area.
-
 ### Published
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
+
+- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (In press). Bird communities show resilience to an extreme drought across a large savanna protected area. *Global Ecology and Conservation*.
+
+- Honda, I. A., **Medeiros, L. P.**, Thompson, C. R. S., Britten, G. L., Runge, J. A., and Ji, R. (2025). Seasonal trophic controls drive population variability in a foundational marine copepod. *Scientific Reports*, 15(1), 36018.
+    - [Journal](https://doi.org/10.1038/s41598-025-19919-2)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Honda_etal_2025_ScientificReports.pdf)
+    - [Code and data](https://github.com/iahonda/Trophic-Controls)
 
 - **Medeiros, L. P.**, Sorenson, D. K., Johnson, B. J., Palkovacs, E. P., and Munch, S. B. (2025). Revealing unseen dynamical regimes of ecosystems from population time-series data. *Proceedings of the National Academy of Sciences*, 122(24), e2416637122.
     - [Journal](https://www.pnas.org/doi/10.1073/pnas.2416637122)
