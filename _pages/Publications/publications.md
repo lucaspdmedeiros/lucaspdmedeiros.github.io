@@ -4,16 +4,18 @@ layout: archive
 permalink: /_pages/Publications/
 ---
 
-### Submitted
+<!-- ### Submitted -->
 
-- **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (Under review). A nonequilibrium framework for community responses to pulse perturbations.
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
-
-### Published
+<!-- ### Published -->
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
 
-- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (In press). Bird communities show resilience to an extreme drought across a large savanna protected area. *Global Ecology and Conservation*.
+- **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (In press). A nonequilibrium framework for community responses to pulse perturbations. *Ecology Letters*.
+    - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
+
+- Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (2025). Bird communities show resilience to an extreme drought across a large savanna protected area. *Global Ecology and Conservation*, 64, e03933.
+    - [Journal](https://doi.org/10.1016/j.gecco.2025.e03933)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Lerm_etal_2025_GlobalEcologyAndConservation.pdf)
 
 - Honda, I. A., **Medeiros, L. P.**, Thompson, C. R. S., Britten, G. L., Runge, J. A., and Ji, R. (2025). Seasonal trophic controls drive population variability in a foundational marine copepod. *Scientific Reports*, 15(1), 36018.
     - [Journal](https://doi.org/10.1038/s41598-025-19919-2)
