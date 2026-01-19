@@ -10,8 +10,10 @@ permalink: /_pages/Publications/
 
 For the most up-to-date information, please check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=_yaf13EAAAAJ&view_op=list_works&sortby=pubdate).
 
-- **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (In press). A nonequilibrium framework for community responses to pulse perturbations. *Ecology Letters*.
-    - [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.14.654148v1)
+- **Medeiros, L. P.**, Neubert, M. G., Sosik, H. M., and Munch, S. B. (2026). A nonequilibrium framework for community responses to pulse perturbations. *Ecology Letters*, 29(1), e70313.
+    - [Journal](https://doi.org/10.1111/ele.70313)
+    - [PDF](https://lucaspdmedeiros.github.io/files/Medeiros_etal_2026_EcolLett.pdf)
+    - [Code and data](https://github.com/lucaspdmedeiros/nonequilibrium-pulse-perturbations)
 
 - Lerm, R., **Medeiros, L. P.**, Thompson, D., Ehlers Smith, D., and Downs, C. (2025). Bird communities show resilience to an extreme drought across a large savanna protected area. *Global Ecology and Conservation*, 64, e03933.
     - [Journal](https://doi.org/10.1016/j.gecco.2025.e03933)
